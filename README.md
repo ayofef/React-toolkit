@@ -6,4 +6,5 @@
     <br />
   </h1>
 </div>
- - [`React Context`](./React-Context) &mdash; create react context and consume with hooks
+
+-   [`React Context`](./React-Context) &mdash; create react context and consume with hooks
